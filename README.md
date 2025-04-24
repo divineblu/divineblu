@@ -26,7 +26,3 @@ Driven by a fascination with the future, I architect intelligent systems where a
 ###  Guiding Star // Vision
 
 > To explore the uncharted territories of computation. My mission is to leverage the exponential power of AI and bespoke hardware not just to solve problems, but to unlock entirely new possibilities for humanity. What started as a childhood spark with computers is now a quest to contribute to the next leap in technological evolution.
-
----
-
-Ready to collaborate on moonshots and paradigm shifts. Let's connect and engineer the future.
